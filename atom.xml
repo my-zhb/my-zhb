@@ -3,11 +3,11 @@
   <title>七月のBlog</title>
   
   
-  <link href="https://blog.myiszhb.cn/atom.xml" rel="self"/>
+  <link href="https://my-zhb.github.io/atom.xml" rel="self"/>
   
-  <link href="https://blog.myiszhb.cn/"/>
+  <link href="https://my-zhb.github.io/"/>
   <updated>2021-01-04T14:08:08.533Z</updated>
-  <id>https://blog.myiszhb.cn/</id>
+  <id>https://my-zhb.github.io/</id>
   
   <author>
     <name>七月</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>juc</title>
-    <link href="https://blog.myiszhb.cn/2021/01/04/3cf22ab5.html"/>
-    <id>https://blog.myiszhb.cn/2021/01/04/3cf22ab5.html</id>
+    <link href="https://my-zhb.github.io/2021/01/04/3cf22ab5.html"/>
+    <id>https://my-zhb.github.io/2021/01/04/3cf22ab5.html</id>
     <published>2021-01-04T14:06:33.000Z</published>
     <updated>2021-01-04T14:08:08.533Z</updated>
     
@@ -30,19 +30,19 @@
     
     
     
-    <category term="Java" scheme="https://blog.myiszhb.cn/categories/Java/"/>
+    <category term="Java" scheme="https://my-zhb.github.io/categories/Java/"/>
     
-    <category term="se" scheme="https://blog.myiszhb.cn/categories/Java/se/"/>
+    <category term="se" scheme="https://my-zhb.github.io/categories/Java/se/"/>
     
     
-    <category term="juc" scheme="https://blog.myiszhb.cn/tags/juc/"/>
+    <category term="juc" scheme="https://my-zhb.github.io/tags/juc/"/>
     
   </entry>
   
   <entry>
     <title>io流</title>
-    <link href="https://blog.myiszhb.cn/2020/12/22/9f27402d.html"/>
-    <id>https://blog.myiszhb.cn/2020/12/22/9f27402d.html</id>
+    <link href="https://my-zhb.github.io/2020/12/22/9f27402d.html"/>
+    <id>https://my-zhb.github.io/2020/12/22/9f27402d.html</id>
     <published>2020-12-22T12:26:26.000Z</published>
     <updated>2020-12-22T13:20:39.590Z</updated>
     
@@ -53,19 +53,19 @@
     
     
     
-    <category term="Java" scheme="https://blog.myiszhb.cn/categories/Java/"/>
+    <category term="Java" scheme="https://my-zhb.github.io/categories/Java/"/>
     
-    <category term="se" scheme="https://blog.myiszhb.cn/categories/Java/se/"/>
+    <category term="se" scheme="https://my-zhb.github.io/categories/Java/se/"/>
     
     
-    <category term="io" scheme="https://blog.myiszhb.cn/tags/io/"/>
+    <category term="io" scheme="https://my-zhb.github.io/tags/io/"/>
     
   </entry>
   
   <entry>
     <title>集合</title>
-    <link href="https://blog.myiszhb.cn/2020/12/16/d366874c.html"/>
-    <id>https://blog.myiszhb.cn/2020/12/16/d366874c.html</id>
+    <link href="https://my-zhb.github.io/2020/12/16/d366874c.html"/>
+    <id>https://my-zhb.github.io/2020/12/16/d366874c.html</id>
     <published>2020-12-16T12:57:55.000Z</published>
     <updated>2020-12-16T13:19:41.228Z</updated>
     
@@ -76,19 +76,19 @@
     
     
     
-    <category term="Java" scheme="https://blog.myiszhb.cn/categories/Java/"/>
+    <category term="Java" scheme="https://my-zhb.github.io/categories/Java/"/>
     
-    <category term="se" scheme="https://blog.myiszhb.cn/categories/Java/se/"/>
+    <category term="se" scheme="https://my-zhb.github.io/categories/Java/se/"/>
     
     
-    <category term="集合" scheme="https://blog.myiszhb.cn/tags/%E9%9B%86%E5%90%88/"/>
+    <category term="集合" scheme="https://my-zhb.github.io/tags/%E9%9B%86%E5%90%88/"/>
     
   </entry>
   
   <entry>
     <title>包装类</title>
-    <link href="https://blog.myiszhb.cn/2020/12/14/52c58cb2.html"/>
-    <id>https://blog.myiszhb.cn/2020/12/14/52c58cb2.html</id>
+    <link href="https://my-zhb.github.io/2020/12/14/52c58cb2.html"/>
+    <id>https://my-zhb.github.io/2020/12/14/52c58cb2.html</id>
     <published>2020-12-14T12:24:34.000Z</published>
     <updated>2020-12-14T12:34:49.808Z</updated>
     
@@ -99,19 +99,19 @@
     
     
     
-    <category term="Java" scheme="https://blog.myiszhb.cn/categories/Java/"/>
+    <category term="Java" scheme="https://my-zhb.github.io/categories/Java/"/>
     
-    <category term="se" scheme="https://blog.myiszhb.cn/categories/Java/se/"/>
+    <category term="se" scheme="https://my-zhb.github.io/categories/Java/se/"/>
     
     
-    <category term="Java基础" scheme="https://blog.myiszhb.cn/tags/Java%E5%9F%BA%E7%A1%80/"/>
+    <category term="Java基础" scheme="https://my-zhb.github.io/tags/Java%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
   <entry>
     <title>类型与类型之间的关系</title>
-    <link href="https://blog.myiszhb.cn/2020/12/14/7acf6980.html"/>
-    <id>https://blog.myiszhb.cn/2020/12/14/7acf6980.html</id>
+    <link href="https://my-zhb.github.io/2020/12/14/7acf6980.html"/>
+    <id>https://my-zhb.github.io/2020/12/14/7acf6980.html</id>
     <published>2020-12-14T12:24:21.000Z</published>
     <updated>2020-12-14T12:33:28.110Z</updated>
     
@@ -122,19 +122,19 @@
     
     
     
-    <category term="Java" scheme="https://blog.myiszhb.cn/categories/Java/"/>
+    <category term="Java" scheme="https://my-zhb.github.io/categories/Java/"/>
     
-    <category term="se" scheme="https://blog.myiszhb.cn/categories/Java/se/"/>
+    <category term="se" scheme="https://my-zhb.github.io/categories/Java/se/"/>
     
     
-    <category term="Java基础" scheme="https://blog.myiszhb.cn/tags/Java%E5%9F%BA%E7%A1%80/"/>
+    <category term="Java基础" scheme="https://my-zhb.github.io/tags/Java%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
   <entry>
     <title>Java访问控制权限</title>
-    <link href="https://blog.myiszhb.cn/2020/12/14/df717f7d.html"/>
-    <id>https://blog.myiszhb.cn/2020/12/14/df717f7d.html</id>
+    <link href="https://my-zhb.github.io/2020/12/14/df717f7d.html"/>
+    <id>https://my-zhb.github.io/2020/12/14/df717f7d.html</id>
     <published>2020-12-14T12:24:21.000Z</published>
     <updated>2020-12-14T12:34:55.789Z</updated>
     
@@ -145,19 +145,19 @@
     
     
     
-    <category term="Java" scheme="https://blog.myiszhb.cn/categories/Java/"/>
+    <category term="Java" scheme="https://my-zhb.github.io/categories/Java/"/>
     
-    <category term="se" scheme="https://blog.myiszhb.cn/categories/Java/se/"/>
+    <category term="se" scheme="https://my-zhb.github.io/categories/Java/se/"/>
     
     
-    <category term="Java基础" scheme="https://blog.myiszhb.cn/tags/Java%E5%9F%BA%E7%A1%80/"/>
+    <category term="Java基础" scheme="https://my-zhb.github.io/tags/Java%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
   <entry>
     <title>String、StringBuffer、StringBuilder区别</title>
-    <link href="https://blog.myiszhb.cn/2020/12/13/88b1c03b.html"/>
-    <id>https://blog.myiszhb.cn/2020/12/13/88b1c03b.html</id>
+    <link href="https://my-zhb.github.io/2020/12/13/88b1c03b.html"/>
+    <id>https://my-zhb.github.io/2020/12/13/88b1c03b.html</id>
     <published>2020-12-13T11:33:11.000Z</published>
     <updated>2020-12-13T11:36:25.868Z</updated>
     
@@ -168,19 +168,19 @@
     
     
     
-    <category term="Java" scheme="https://blog.myiszhb.cn/categories/Java/"/>
+    <category term="Java" scheme="https://my-zhb.github.io/categories/Java/"/>
     
-    <category term="se" scheme="https://blog.myiszhb.cn/categories/Java/se/"/>
+    <category term="se" scheme="https://my-zhb.github.io/categories/Java/se/"/>
     
     
-    <category term="Java基础" scheme="https://blog.myiszhb.cn/tags/Java%E5%9F%BA%E7%A1%80/"/>
+    <category term="Java基础" scheme="https://my-zhb.github.io/tags/Java%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
   <entry>
     <title>String类</title>
-    <link href="https://blog.myiszhb.cn/2020/12/12/5cf35ca9.html"/>
-    <id>https://blog.myiszhb.cn/2020/12/12/5cf35ca9.html</id>
+    <link href="https://my-zhb.github.io/2020/12/12/5cf35ca9.html"/>
+    <id>https://my-zhb.github.io/2020/12/12/5cf35ca9.html</id>
     <published>2020-12-12T13:17:01.000Z</published>
     <updated>2020-12-12T13:48:40.848Z</updated>
     
@@ -191,19 +191,19 @@
     
     
     
-    <category term="Java" scheme="https://blog.myiszhb.cn/categories/Java/"/>
+    <category term="Java" scheme="https://my-zhb.github.io/categories/Java/"/>
     
-    <category term="se" scheme="https://blog.myiszhb.cn/categories/Java/se/"/>
+    <category term="se" scheme="https://my-zhb.github.io/categories/Java/se/"/>
     
     
-    <category term="Java基础" scheme="https://blog.myiszhb.cn/tags/Java%E5%9F%BA%E7%A1%80/"/>
+    <category term="Java基础" scheme="https://my-zhb.github.io/tags/Java%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
   <entry>
     <title>多种数据类型混合运算</title>
-    <link href="https://blog.myiszhb.cn/2020/12/11/d57302f2.html"/>
-    <id>https://blog.myiszhb.cn/2020/12/11/d57302f2.html</id>
+    <link href="https://my-zhb.github.io/2020/12/11/d57302f2.html"/>
+    <id>https://my-zhb.github.io/2020/12/11/d57302f2.html</id>
     <published>2020-12-11T12:18:34.000Z</published>
     <updated>2020-12-11T12:21:58.584Z</updated>
     
@@ -214,19 +214,19 @@
     
     
     
-    <category term="Java" scheme="https://blog.myiszhb.cn/categories/Java/"/>
+    <category term="Java" scheme="https://my-zhb.github.io/categories/Java/"/>
     
-    <category term="se" scheme="https://blog.myiszhb.cn/categories/Java/se/"/>
+    <category term="se" scheme="https://my-zhb.github.io/categories/Java/se/"/>
     
     
-    <category term="Java基础" scheme="https://blog.myiszhb.cn/tags/Java%E5%9F%BA%E7%A1%80/"/>
+    <category term="Java基础" scheme="https://my-zhb.github.io/tags/Java%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
   <entry>
     <title>二进制的原码、反码、补码</title>
-    <link href="https://blog.myiszhb.cn/2020/12/10/c3d59d66.html"/>
-    <id>https://blog.myiszhb.cn/2020/12/10/c3d59d66.html</id>
+    <link href="https://my-zhb.github.io/2020/12/10/c3d59d66.html"/>
+    <id>https://my-zhb.github.io/2020/12/10/c3d59d66.html</id>
     <published>2020-12-10T12:06:58.000Z</published>
     <updated>2020-12-11T12:19:52.074Z</updated>
     
@@ -243,19 +243,19 @@
     
     
     
-    <category term="Java" scheme="https://blog.myiszhb.cn/categories/Java/"/>
+    <category term="Java" scheme="https://my-zhb.github.io/categories/Java/"/>
     
-    <category term="se" scheme="https://blog.myiszhb.cn/categories/Java/se/"/>
+    <category term="se" scheme="https://my-zhb.github.io/categories/Java/se/"/>
     
     
-    <category term="Java基础" scheme="https://blog.myiszhb.cn/tags/Java%E5%9F%BA%E7%A1%80/"/>
+    <category term="Java基础" scheme="https://my-zhb.github.io/tags/Java%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
   <entry>
     <title>异常</title>
-    <link href="https://blog.myiszhb.cn/2020/12/09/23a3bd72.html"/>
-    <id>https://blog.myiszhb.cn/2020/12/09/23a3bd72.html</id>
+    <link href="https://my-zhb.github.io/2020/12/09/23a3bd72.html"/>
+    <id>https://my-zhb.github.io/2020/12/09/23a3bd72.html</id>
     <published>2020-12-09T11:41:47.000Z</published>
     <updated>2020-12-11T12:20:19.685Z</updated>
     
@@ -266,19 +266,19 @@
     
     
     
-    <category term="Java" scheme="https://blog.myiszhb.cn/categories/Java/"/>
+    <category term="Java" scheme="https://my-zhb.github.io/categories/Java/"/>
     
-    <category term="se" scheme="https://blog.myiszhb.cn/categories/Java/se/"/>
+    <category term="se" scheme="https://my-zhb.github.io/categories/Java/se/"/>
     
     
-    <category term="Java基础" scheme="https://blog.myiszhb.cn/tags/Java%E5%9F%BA%E7%A1%80/"/>
+    <category term="Java基础" scheme="https://my-zhb.github.io/tags/Java%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
   <entry>
     <title>内部类</title>
-    <link href="https://blog.myiszhb.cn/2020/12/09/9bc01b38.html"/>
-    <id>https://blog.myiszhb.cn/2020/12/09/9bc01b38.html</id>
+    <link href="https://my-zhb.github.io/2020/12/09/9bc01b38.html"/>
+    <id>https://my-zhb.github.io/2020/12/09/9bc01b38.html</id>
     <published>2020-12-09T11:41:33.000Z</published>
     <updated>2020-12-11T12:20:05.822Z</updated>
     
@@ -289,19 +289,19 @@
     
     
     
-    <category term="Java" scheme="https://blog.myiszhb.cn/categories/Java/"/>
+    <category term="Java" scheme="https://my-zhb.github.io/categories/Java/"/>
     
-    <category term="se" scheme="https://blog.myiszhb.cn/categories/Java/se/"/>
+    <category term="se" scheme="https://my-zhb.github.io/categories/Java/se/"/>
     
     
-    <category term="Java基础" scheme="https://blog.myiszhb.cn/tags/Java%E5%9F%BA%E7%A1%80/"/>
+    <category term="Java基础" scheme="https://my-zhb.github.io/tags/Java%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
   <entry>
     <title>接口</title>
-    <link href="https://blog.myiszhb.cn/2020/12/08/5951da65.html"/>
-    <id>https://blog.myiszhb.cn/2020/12/08/5951da65.html</id>
+    <link href="https://my-zhb.github.io/2020/12/08/5951da65.html"/>
+    <id>https://my-zhb.github.io/2020/12/08/5951da65.html</id>
     <published>2020-12-08T11:05:06.000Z</published>
     <updated>2020-12-14T12:32:59.906Z</updated>
     
@@ -312,19 +312,19 @@
     
     
     
-    <category term="Java" scheme="https://blog.myiszhb.cn/categories/Java/"/>
+    <category term="Java" scheme="https://my-zhb.github.io/categories/Java/"/>
     
-    <category term="se" scheme="https://blog.myiszhb.cn/categories/Java/se/"/>
+    <category term="se" scheme="https://my-zhb.github.io/categories/Java/se/"/>
     
     
-    <category term="Java基础" scheme="https://blog.myiszhb.cn/tags/Java%E5%9F%BA%E7%A1%80/"/>
+    <category term="Java基础" scheme="https://my-zhb.github.io/tags/Java%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
   <entry>
     <title>类与对象的关系</title>
-    <link href="https://blog.myiszhb.cn/2020/12/08/d1212574.html"/>
-    <id>https://blog.myiszhb.cn/2020/12/08/d1212574.html</id>
+    <link href="https://my-zhb.github.io/2020/12/08/d1212574.html"/>
+    <id>https://my-zhb.github.io/2020/12/08/d1212574.html</id>
     <published>2020-12-08T11:03:26.000Z</published>
     <updated>2020-12-11T12:19:57.685Z</updated>
     
@@ -335,19 +335,19 @@
     
     
     
-    <category term="Java" scheme="https://blog.myiszhb.cn/categories/Java/"/>
+    <category term="Java" scheme="https://my-zhb.github.io/categories/Java/"/>
     
-    <category term="se" scheme="https://blog.myiszhb.cn/categories/Java/se/"/>
+    <category term="se" scheme="https://my-zhb.github.io/categories/Java/se/"/>
     
     
-    <category term="Java基础" scheme="https://blog.myiszhb.cn/tags/Java%E5%9F%BA%E7%A1%80/"/>
+    <category term="Java基础" scheme="https://my-zhb.github.io/tags/Java%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
   <entry>
     <title>抽象类</title>
-    <link href="https://blog.myiszhb.cn/2020/12/07/3dbae4e.html"/>
-    <id>https://blog.myiszhb.cn/2020/12/07/3dbae4e.html</id>
+    <link href="https://my-zhb.github.io/2020/12/07/3dbae4e.html"/>
+    <id>https://my-zhb.github.io/2020/12/07/3dbae4e.html</id>
     <published>2020-12-07T11:48:07.000Z</published>
     <updated>2020-12-11T12:19:46.843Z</updated>
     
@@ -358,19 +358,19 @@
     
     
     
-    <category term="Java" scheme="https://blog.myiszhb.cn/categories/Java/"/>
+    <category term="Java" scheme="https://my-zhb.github.io/categories/Java/"/>
     
-    <category term="se" scheme="https://blog.myiszhb.cn/categories/Java/se/"/>
+    <category term="se" scheme="https://my-zhb.github.io/categories/Java/se/"/>
     
     
-    <category term="Java基础" scheme="https://blog.myiszhb.cn/tags/Java%E5%9F%BA%E7%A1%80/"/>
+    <category term="Java基础" scheme="https://my-zhb.github.io/tags/Java%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
   <entry>
     <title>static关键字</title>
-    <link href="https://blog.myiszhb.cn/2020/12/06/ce244871.html"/>
-    <id>https://blog.myiszhb.cn/2020/12/06/ce244871.html</id>
+    <link href="https://my-zhb.github.io/2020/12/06/ce244871.html"/>
+    <id>https://my-zhb.github.io/2020/12/06/ce244871.html</id>
     <published>2020-12-06T12:12:53.000Z</published>
     <updated>2020-12-11T12:20:34.301Z</updated>
     
@@ -381,19 +381,19 @@
     
     
     
-    <category term="Java" scheme="https://blog.myiszhb.cn/categories/Java/"/>
+    <category term="Java" scheme="https://my-zhb.github.io/categories/Java/"/>
     
-    <category term="se" scheme="https://blog.myiszhb.cn/categories/Java/se/"/>
+    <category term="se" scheme="https://my-zhb.github.io/categories/Java/se/"/>
     
     
-    <category term="Java基础" scheme="https://blog.myiszhb.cn/tags/Java%E5%9F%BA%E7%A1%80/"/>
+    <category term="Java基础" scheme="https://my-zhb.github.io/tags/Java%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
   <entry>
     <title>面向对象的3大特征</title>
-    <link href="https://blog.myiszhb.cn/2020/12/05/7867351e.html"/>
-    <id>https://blog.myiszhb.cn/2020/12/05/7867351e.html</id>
+    <link href="https://my-zhb.github.io/2020/12/05/7867351e.html"/>
+    <id>https://my-zhb.github.io/2020/12/05/7867351e.html</id>
     <published>2020-12-05T09:01:36.000Z</published>
     <updated>2020-12-11T12:20:00.502Z</updated>
     
@@ -404,19 +404,19 @@
     
     
     
-    <category term="Java" scheme="https://blog.myiszhb.cn/categories/Java/"/>
+    <category term="Java" scheme="https://my-zhb.github.io/categories/Java/"/>
     
-    <category term="se" scheme="https://blog.myiszhb.cn/categories/Java/se/"/>
+    <category term="se" scheme="https://my-zhb.github.io/categories/Java/se/"/>
     
     
-    <category term="Java基础" scheme="https://blog.myiszhb.cn/tags/Java%E5%9F%BA%E7%A1%80/"/>
+    <category term="Java基础" scheme="https://my-zhb.github.io/tags/Java%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
   <entry>
     <title>什么是面向过程、面向对象</title>
-    <link href="https://blog.myiszhb.cn/2020/12/04/c5d97b3b.html"/>
-    <id>https://blog.myiszhb.cn/2020/12/04/c5d97b3b.html</id>
+    <link href="https://my-zhb.github.io/2020/12/04/c5d97b3b.html"/>
+    <id>https://my-zhb.github.io/2020/12/04/c5d97b3b.html</id>
     <published>2020-12-04T12:13:01.000Z</published>
     <updated>2020-12-11T12:20:11.973Z</updated>
     
@@ -427,19 +427,19 @@
     
     
     
-    <category term="Java" scheme="https://blog.myiszhb.cn/categories/Java/"/>
+    <category term="Java" scheme="https://my-zhb.github.io/categories/Java/"/>
     
-    <category term="se" scheme="https://blog.myiszhb.cn/categories/Java/se/"/>
+    <category term="se" scheme="https://my-zhb.github.io/categories/Java/se/"/>
     
     
-    <category term="Java基础" scheme="https://blog.myiszhb.cn/tags/Java%E5%9F%BA%E7%A1%80/"/>
+    <category term="Java基础" scheme="https://my-zhb.github.io/tags/Java%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
   <entry>
     <title>稀疏数组</title>
-    <link href="https://blog.myiszhb.cn/2020/12/03/a6455d41.html"/>
-    <id>https://blog.myiszhb.cn/2020/12/03/a6455d41.html</id>
+    <link href="https://my-zhb.github.io/2020/12/03/a6455d41.html"/>
+    <id>https://my-zhb.github.io/2020/12/03/a6455d41.html</id>
     <published>2020-12-03T12:29:50.000Z</published>
     <updated>2020-12-11T12:20:17.252Z</updated>
     
@@ -450,19 +450,19 @@
     
     
     
-    <category term="Java" scheme="https://blog.myiszhb.cn/categories/Java/"/>
+    <category term="Java" scheme="https://my-zhb.github.io/categories/Java/"/>
     
-    <category term="se" scheme="https://blog.myiszhb.cn/categories/Java/se/"/>
+    <category term="se" scheme="https://my-zhb.github.io/categories/Java/se/"/>
     
     
-    <category term="Java基础" scheme="https://blog.myiszhb.cn/tags/Java%E5%9F%BA%E7%A1%80/"/>
+    <category term="Java基础" scheme="https://my-zhb.github.io/tags/Java%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
   <entry>
     <title>数组及多维数组</title>
-    <link href="https://blog.myiszhb.cn/2020/12/02/4cb979a2.html"/>
-    <id>https://blog.myiszhb.cn/2020/12/02/4cb979a2.html</id>
+    <link href="https://my-zhb.github.io/2020/12/02/4cb979a2.html"/>
+    <id>https://my-zhb.github.io/2020/12/02/4cb979a2.html</id>
     <published>2020-12-02T12:13:24.000Z</published>
     <updated>2020-12-11T12:20:14.926Z</updated>
     
@@ -473,12 +473,12 @@
     
     
     
-    <category term="Java" scheme="https://blog.myiszhb.cn/categories/Java/"/>
+    <category term="Java" scheme="https://my-zhb.github.io/categories/Java/"/>
     
-    <category term="se" scheme="https://blog.myiszhb.cn/categories/Java/se/"/>
+    <category term="se" scheme="https://my-zhb.github.io/categories/Java/se/"/>
     
     
-    <category term="Java基础" scheme="https://blog.myiszhb.cn/tags/Java%E5%9F%BA%E7%A1%80/"/>
+    <category term="Java基础" scheme="https://my-zhb.github.io/tags/Java%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
